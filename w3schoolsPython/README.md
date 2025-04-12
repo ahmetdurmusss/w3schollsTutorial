@@ -1,4 +1,4 @@
-# Python Programlamaya Giriş – W3Schools Tabanlı Uygulamalar
+# Python Programlama
 
 Bu klasör, W3Schools Python eğitimi kapsamında temel programlama yapı taşlarını öğrenmek amacıyla hazırlanmış 17 adet Jupyter Notebook içermektedir. Her dosya, bir konuyu adım adım açıklamakta ve örneklerle pekiştirmektedir.
 
