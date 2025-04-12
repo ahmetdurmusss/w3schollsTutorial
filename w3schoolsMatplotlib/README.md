@@ -1,4 +1,4 @@
-# Matplotlib ile Veri Görselleştirme
+# Matplotlib
 
 Bu klasör, Matplotlib’in temel ve orta seviye özelliklerini konu alan görselleştirme örneklerini içerir. Grafik türlerine göre bölümlenmiş Jupyter Notebook’lar ile öğrenme süreci kolaylaştırılmıştır.
 
