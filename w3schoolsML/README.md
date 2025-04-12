@@ -1,4 +1,4 @@
-# Makine Öğrenimine Giriş – W3Schools Tabanlı Notlar
+# Makine Öğrenmesi
 
 Bu klasör, W3Schools’un makine öğrenimi konularını temel alarak hazırlanmış, sıfırdan ileri düzeye kadar ilerleyen uygulamalı Jupyter defterlerinden oluşur.
 
