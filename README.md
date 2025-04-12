@@ -1,49 +1,83 @@
-# w3schollsTutorial
+# 📘 w3schoolsTutorial
 
-Bu repoda, W3Schools sitesindeki Python eğitimlerini takip ederek oluşturduğum Jupyter Notebook'lar yer almaktadır. Her bir klasör, Python'un farklı bir konusuna odaklanmakta ve örneklerle desteklenmiş öğrenme materyalleri sunmaktadır.
+Bu repoda, W3Schools Python eğitim serisinden yola çıkarak hazırlanmış, Jupyter Notebook formatında derlenmiş öğrenme materyalleri yer almaktadır. Her bir klasör, Python ve popüler kütüphaneleri kapsayan farklı bir konuya odaklanmakta ve konular adım adım örneklerle desteklenmektedir.
 
-> ❗ Bu içerikler, **öğrenme amacıyla yeniden yapılandırılmıştır**. Örnekler genişletilmiş, notlar ve yorumlar tarafımdan eklenmiştir. Kaynak: [w3schools.com](https://www.w3schools.com/python/)
+> ❗ Bu içerikler **öğrenme amacıyla yeniden yapılandırılmıştır**. Orijinal örnekler üzerine açıklamalar, ek notlar ve yeni uygulamalar tarafımdan eklenmiştir.  
+> 🔗 Kaynak: [w3schools.com](https://www.w3schools.com/python/)
 
 ---
 
-## 📂 Klasörler
+## 📁 Klasörler ve İçerikleri
 
-### 📁 `w3schoolsPython/`
-Python'un temel konularını (syntax, değişkenler, veri tipleri, string işlemleri, döngüler, fonksiyonlar vb.) kapsayan 17 bölümden oluşan interaktif Jupyter Notebook seti.
+### `w3schoolsPython/`  
+Python programlama dilinin temel konularını içeren 17 bölümlük bir eğitim seti.
 
 📌 Öne çıkan konular:
-- Temel sözdizimi
-- Veri tipleri ve koleksiyonlar (list, tuple, set, dictionary)
-- Koşullu ifadeler (`if`, `else`, `elif`)
-- Döngüler ve fonksiyonlar
+- Temel sözdizimi ve yorum satırları
+- Değişkenler, veri tipleri
+- Koleksiyonlar: list, tuple, set, dictionary
+- Koşullu ifadeler (`if`, `elif`, `else`)
+- Döngüler (`for`, `while`) ve fonksiyonlar
 
 ---
 
-### 📁 `w3schoolsPandas/`
-Pandas kütüphanesinin temel kullanımlarını örnekleyen not defterleri. Veri okuma, filtreleme, sıralama, istatistiksel analiz gibi işlemler pratik örneklerle sunulmuştur.
+### `w3schoolsPandas/`  
+Pandas kütüphanesi ile veri manipülasyonu üzerine temel uygulamalar.
+
+📌 Öne çıkan konular:
+- Series ve DataFrame yapıları
+- CSV dosyaları ile çalışma
+- Filtreleme, sıralama, eksik veri işlemleri
+- Korelasyon ve veri görselleştirme
 
 ---
 
-### 📁 `w3schoolsNumpy/`
-NumPy kütüphanesiyle ilgili matris işlemleri, vektörler, diziler, aritmetik işlemler ve temel fonksiyonlar ele alınmıştır.
+### `w3schoolsNumpy/`  
+NumPy ile sayısal işlemler, matrisler, diziler ve temel matematiksel fonksiyonlara yönelik uygulamalar.
+
+📌 Öne çıkan konular:
+- NumPy array yapısı
+- Shape, reshape, slicing, indexing
+- Aritmetik ve istatistiksel işlemler
+- Rastgele sayı üretimi ve veri analizi temelleri
 
 ---
 
-### 📁 `w3schoolsMatplotlib/`
-Matplotlib ile veri görselleştirme üzerine örnekler içerir. Çizgi grafikleri, çubuk grafikleri, histogramlar, renk, başlık, stil gibi konular kapsamlı bir şekilde işlenmiştir.
+### `w3schoolsMatplotlib/`  
+Matplotlib kütüphanesi ile veri görselleştirme örnekleri.
+
+📌 Öne çıkan konular:
+- Çizgi, çubuk, pasta ve histogram grafikleri
+- Etiketleme, başlık, grid ve stil ayarları
+- Çoklu grafik gösterimi ve `subplot` kullanımı
 
 ---
 
-## 📌 Notlar
+### `w3schoolsML/`  
+Makine öğrenimine giriş niteliğinde örnekler. Temel istatistik, regresyon, sınıflandırma ve kümeleme uygulamaları.
 
-- Her klasörde `.ipynb` formatında çalıştırılabilir Jupyter Notebook dosyaları yer almaktadır.
-- Kodların büyük bölümü genişletilmiş açıklamalar, ek örnekler ve notlarla desteklenmiştir.
-- Eğitim materyali olarak kullanabilir, kendi yorumlarınızı da ekleyerek geliştirebilirsiniz.
+📌 Öne çıkan konular:
+- Ortalama, medyan, varyans, standart sapma
+- Doğrusal, polinomal ve lojistik regresyon
+- Karar ağaçları, k-means, grid search
+- Eğitim-test ayrımı ve model değerlendirme
+
+---
+
+## 📌 Genel Notlar
+
+- Tüm klasörlerde `.ipynb` uzantılı çalıştırılabilir Jupyter Notebook dosyaları bulunmaktadır.
+- Notebook’lar, hem orijinal konular hem de kişisel katkılarla zenginleştirilmiştir.
+- Eğitim amacıyla hazırlanmış olup, kendi öğrenme sürecinizi geliştirmek için kullanılabilir.
+- Türkçe olarak hazırlanmıştır; yorumlar ve açıklamalar detaylı şekilde eklenmiştir.
 
 ---
 
 ## 📜 Lisans ve Kaynak
 
-Bu içerik W3Schools örneklerinden yola çıkılarak geliştirilmiştir.  
-🔗 [W3Schools Python](https://www.w3schools.com/python/)  
-🔖 Bu çalışma, ticari olmayan, kişisel öğrenim amaçlı kullanıma uygundur.
+Bu çalışma W3Schools kaynakları temel alınarak, bireysel öğrenme amacıyla oluşturulmuştur.  
+Her hakkı W3Schools'a ait olmakla birlikte içerikler yeniden yapılandırılmıştır.
+
+🔗 [W3Schools Python Eğitimi](https://www.w3schools.com/python/)
+
+🔖 **Kullanım izni:** Kişisel ve eğitim amaçlı kullanıma uygundur. Ticari kullanımlarda orijinal kaynakların koşulları dikkate alınmalıdır.
