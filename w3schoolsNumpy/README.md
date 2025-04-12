@@ -1,4 +1,4 @@
-# NumPy ile Sayısal Hesaplamalar
+# NumPy 
 
 Bu klasör, NumPy kütüphanesinin temel ve ileri düzey işlevlerini konu alan örneklerle doludur. Özellikle veri yapıları, matris işlemleri ve analiz fonksiyonlarına odaklanılmıştır.
 
