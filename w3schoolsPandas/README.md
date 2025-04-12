@@ -1,4 +1,4 @@
-# Pandas ile Veri Analizi
+# Pandas 
 
 Bu klasör, pandas kütüphanesinin temel işlevlerini Jupyter Notebook ortamında örnekleyen çalışmaları içerir. Veri yapıları, okuma/yazma, filtreleme ve görselleştirme gibi konular ele alınır.
 
